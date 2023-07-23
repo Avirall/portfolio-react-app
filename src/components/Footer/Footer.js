@@ -15,17 +15,17 @@ const Footer = () => {
       {/* social */}
       <ul className="footer-social-media">
         <li>
-          <a href="https://www.youtube.com">
+          <a href="https://www.Facebook.com">
             <i className="fa-brands fa-facebook-f"></i>
           </a>
         </li>
         <li>
-          <a href="https://www.youtube.com">
+          <a href="https://www.twitter.com">
             <i className="fa-brands fa-twitter"></i>
           </a>
         </li>
         <li>
-          <a href="https://www.youtube.com">
+          <a href="https://www.instagram.com">
             <i className="fa-brands fa-instagram"></i>
           </a>
         </li>
@@ -35,7 +35,7 @@ const Footer = () => {
           </a>
         </li>
         <li>
-          <a href="https://www.youtube.com">
+          <a href="https://www.linkedin.com">
             <i className="fa-brands fa-linkedin"></i>
           </a>
         </li>
